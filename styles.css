@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: lightgrey;
+    font-family: helvetica;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+}
+
+h2 {
+    text-align: center;
+    margin: 25px 0px;
+    color: rebeccapurple;
+}
+
+table {
+    margin: auto;
+    margin-bottom: 40px;
+    width: 40%;
+    outline: 2px solid rebeccapurple;
+}
+
+.color-me {
+    background-color: cornsilk;
+    margin: 10px;
+    font-family: monospace;
+}
+
+th {
+    background-color: plum;
+}
+
+tr {
+    margin: auto;
+    outline: 1px solid plum;
+    text-align: start;
+    padding: 4px;
+}
